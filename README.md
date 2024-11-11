@@ -1,4 +1,5 @@
 # CLion + NXP 单片机开发调试环境示例
+[调试笔记](https://www.taterli.com/10371)
 
 ## 项目介绍
 
